@@ -1,16 +1,14 @@
 # Técnico em Recursos Educacionais - Designer Multimídia
 ## Descrição da Atividade  
 
-> [!INFORMAÇÕES]
+> [!NOTE]
 > O candidato deverá customizar o template em HTML disponibilizado no link abaixo, a partir de um documento base:
- [Link](https://pages.github.com/).
-
-> [!INFORMAÇÕES]
+>[Link](https://pages.github.com/).
 > No caminho acima estarão disponíveis, o template para customização, as orientações gerais e os documentos base sobre 02 temas:
 >1. Origamis
 >2. Como fazer batata frita
- 
-> [!IMPORTANTE]
+
+> [!NOTE]
 >Fica a critério do candidato a escolha do tema, sendo necessário o envio de apenas 01 customização. Independente do tema escolhido pelo candidato, é obrigatório o envio de um video autoral estilo tutorial, sobre o tema escolhido, contendo:
 >1. Abertura;
 >2. Fundo sonoro e|ou efeitos sonoros;
@@ -19,17 +17,15 @@
 >5. Duração máxima do video 1 min. 
  
 >Orientações gerais <code>GITHUB</code>
-
-> [!TIPS]
+ 
 >Para avaliar seus conhecimentos técnicos, escolha um dos temas abaixo para customizar. Alguns itens foram sugeridos no documento base, mas você é livre para propor soluções e itens, caso ache necessário.
  
 >O objetivo é conhecer suas experiências práticas, portanto, fique tranquilo, todas as entregas serão avaliadas!
  
-> [!ATENÇÃO]
-> Advises about risks or negative outcomes of certain actions.
->
+>Caso não consiga acessar algum arquivo ou documentação, tire suas dúvidas o mais breve possível pelo mesmo email em que o teste deve ser entregue.
  
 >Boa sorte!
+ 
  
 >1 – Origamis
 >Storyboard
@@ -40,8 +36,8 @@
 >Storyboard
 >Paleta de cores para este projeto
 
-
 ## Recursos para usar no teste:
+
 ## Accordion 1
 
 ```html
@@ -1319,8 +1315,17 @@ hidden="">
 <div id="player1" class="py-5">
 ```
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
 > [!TIP]
 > Helpful advice for doing things better or more easily.
 
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
 
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
 
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
