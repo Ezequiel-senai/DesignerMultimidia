@@ -2,8 +2,20 @@
 ## Descrição da Atividade  
 
 > [!NOTE]
-> Orientações gerais <code>GITHUB</code>
+> Orientações gerais <code>GITHUB</code>.
 > Para avaliar seus conhecimentos técnicos, escolha um dos temas abaixo para customizar. Alguns itens foram sugeridos no documento base, mas você é livre para propor soluções e itens, caso ache necessário.
+
+> [!TIP]
+> 1 – Origamis:
+> [Storyboard](https://pages.github.com/).
+> Paleta de cores para este projeto
+`#f37140`, `#faa754`, `#fcf27d`, `#06689d`, `#014466`
+
+> [!TIP]
+> 2 – Como fazer batata frita:
+> [Storyboard](https://pages.github.com/).
+> Paleta de cores para este projeto
+`#f3f9f5`, `#d1eada`, `#90d4d3`, `#31a2dc`, `#3665b0`
 
 > [!IMPORTANT]
 > O objetivo é conhecer suas experiências práticas, portanto, fique tranquilo, todas as entregas serão avaliadas!
@@ -13,20 +25,9 @@
 
 > [!WARNING]
 >Boa sorte!
- 
-> [!TIP]
->1 – Origamis
->Storyboard
->Paleta de cores para este projeto
-`#0969DA`, `#0969DA`, `#0969DA`
 
-> [!TIP]
->2 – Como fazer batata frita
->Storyboard
->Paleta de cores para este projeto
 
 ## Recursos para usar no teste:
-
 ## Accordion 1
 
 ```html
