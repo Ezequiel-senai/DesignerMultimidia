@@ -2,19 +2,19 @@
 ## Descrição da Atividade  
 
 > [!NOTE]
-> Orientações gerais <code>GITHUB</code>.
+> Orientações gerais <code>GITHUB</code>.<br>
 > Para avaliar seus conhecimentos técnicos, escolha um dos temas abaixo para customizar. Alguns itens foram sugeridos no documento base, mas você é livre para propor soluções e itens, caso ache necessário.
 
 > [!TIP]
-> 1 – Origamis:
-> [Storyboard](https://pages.github.com/).
-> Paleta de cores para este projeto
+> 1 – Origamis:<br>
+> [Documento base - Storyboard](1-SB_TesteDesignerMultimidia_Origamis.docx).<br>
+> Paleta de cores para este projeto<br>
 `#f37140`, `#faa754`, `#fcf27d`, `#06689d`, `#014466`
 
 > [!TIP]
-> 2 – Como fazer batata frita:
-> [Storyboard](https://pages.github.com/).
-> Paleta de cores para este projeto
+> 2 – Como fazer batata frita:<br>
+> [Documento base - Storyboard](2-SB_TesteDesignerMultimidia_Batatafrita.docx).<br>
+> Paleta de cores para este projeto<br>
 `#f3f9f5`, `#d1eada`, `#90d4d3`, `#31a2dc`, `#3665b0`
 
 > [!IMPORTANT]
