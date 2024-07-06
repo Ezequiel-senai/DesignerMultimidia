@@ -9,13 +9,13 @@
 > 1 – Origamis:<br>
 > [Documento base - Storyboard](1-SB_TesteDesignerMultimidia_Origamis.docx).<br>
 > Paleta de cores para este projeto<br>
-`#f37140`, `#faa754`, `#fcf27d`, `#06689d`, `#014466`
+`#f3f9f5`, `#d1eada`, `#90d4d3`, `#31a2dc`, `#3665b0`
 
 > [!TIP]
 > 2 – Como fazer batata frita:<br>
 > [Documento base - Storyboard](2-SB_TesteDesignerMultimidia_Batatafrita.docx).<br>
 > Paleta de cores para este projeto<br>
-`#f3f9f5`, `#d1eada`, `#90d4d3`, `#31a2dc`, `#3665b0`
+`#f37140`, `#faa754`, `#fcf27d`, `#06689d`, `#014466`
 
 > [!IMPORTANT]
 > O objetivo é conhecer suas experiências práticas, portanto, fique tranquilo, todas as entregas serão avaliadas!
